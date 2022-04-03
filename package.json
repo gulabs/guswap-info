@@ -1,5 +1,6 @@
 {
-  "name": "@uniswap/info",
+  "name": "@gulabs/guswap-info",
+  "version": "0.0.1",
   "private": true,
   "homepage": "https://info.uniswap.org",
   "devDependencies": {
