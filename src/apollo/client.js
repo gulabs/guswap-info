@@ -4,7 +4,7 @@ import { HttpLink } from 'apollo-link-http'
 
 export const client = new ApolloClient({
   link: new HttpLink({
-    uri: 'https://graphnode.guswap.tk/subgraphs/name/guswap',
+    uri: 'https://graphnode.guswap.tk/subgraphs/name/gulabs/guswap',
   }),
   cache: new InMemoryCache(),
   shouldBatch: true,
